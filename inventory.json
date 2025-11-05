@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "cities": [
+    {
+      "id": "oakland-ca",
+      "name": "Oakland, CA",
+      "packs": [
+        "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/oakland/base_pack.json"
+      ]
+    },
+    {
+      "id": "san-francisco-ca",
+      "name": "San Francisco, CA",
+      "packs": [
+        "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/san-francisco/base_pack.json"
+      ]
+    },
+    {
+      "id": "berkeley-ca",
+      "name": "Berkeley, CA",
+      "packs": [
+        "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/berkeley/base_pack.json"
+      ]
+    }
+  ]
+}

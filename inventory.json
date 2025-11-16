@@ -2,24 +2,31 @@
   "version": "1.0.0",
   "cities": [
     {
-      "id": "oakland-ca",
-      "name": "Oakland, CA",
+      "id": "new-york-city-ny",
+      "name": "New York City, NY",
       "packs": [
-        "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/oakland/base_pack.json"
+        "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/new-york-city-ny/base_pack.json"
       ]
     },
     {
-      "id": "san-francisco-ca",
-      "name": "San Francisco, CA",
+      "id": "beijing-cn",
+      "name": "Beijing, China",
       "packs": [
-        "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/san-francisco/base_pack.json"
+        "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/beijing-cn/base_pack.json"
       ]
     },
     {
-      "id": "berkeley-ca",
-      "name": "Berkeley, CA",
+      "id": "cairo-eg",
+      "name": "Cairo, Egypt",
       "packs": [
-        "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/berkeley/base_pack.json"
+        "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/cairo-eg/base_pack.json"
+      ]
+    },
+    {
+      "id": "mexico-city-mx",
+      "name": "Mexico City, Mexico",
+      "packs": [
+        "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/mexico-city-mx/base_pack.json"
       ]
     }
   ]

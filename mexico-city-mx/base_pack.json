@@ -1,0 +1,344 @@
+{
+  "pack_id": "mexico-city-mx-base",
+  "pack_version": "2025.11.15",
+  "active": true,
+  "contact": {
+    "organization": "Mexico City Tourism Board",
+    "email": "info@cdmxtravel.com"
+  },
+  "brand": {
+    "logo": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/mexico-city-mx/assets/mexico_city_logo.png"
+  },
+  "sites": [
+    {
+      "id": "mex-001",
+      "title": "Zócalo (Plaza de la Constitución)",
+      "address": "Plaza de la Constitución, Centro, 06000 Ciudad de México, CDMX, Mexico",
+      "categories": [
+        "Square",
+        "Historical"
+      ],
+      "era": "Pre‑Hispanic and colonial",
+      "active": true,
+      "summary": "Vast central plaza that was the ceremonial heart of Tenochtitlan and remains Mexico’s main square.",
+      "description_md": "# Zócalo\n\nCovering 57,600 square metres, the Zócalo has been a gathering space since Aztec times. It is bordered by the Metropolitan Cathedral, National Palace and Government buildings and hosts national events and protests.",
+      "citations": [
+        {
+          "label": "Wikipedia – Zócalo",
+          "url": "https://en.wikipedia.org/wiki/Z%C3%B3calo",
+          "publisher": "Wikimedia Foundation",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/mexico-city-mx/assets/mex-001.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "square",
+        "historic",
+        "ceremonial"
+      ]
+    },
+    {
+      "id": "mex-002",
+      "title": "Templo Mayor",
+      "address": "Seminario 8, Centro Histórico de la Ciudad de México, 06060 Ciudad de México, CDMX, Mexico",
+      "categories": [
+        "Temple",
+        "Archaeological site"
+      ],
+      "era": "14th–15th centuries",
+      "active": true,
+      "summary": "Main temple of the Mexica dedicated to gods Huitzilopochtli and Tlaloc, excavated in the 20th century.",
+      "description_md": "# Templo Mayor\n\nThis dual pyramid was rebuilt several times between 1325 and 1521. Spanish conquistadors destroyed it and built Mexico City over the ruins. Excavations have revealed offerings and sculptures now displayed in the on-site museum.",
+      "citations": [
+        {
+          "label": "Wikipedia – Templo Mayor",
+          "url": "https://en.wikipedia.org/wiki/Templo_Mayor",
+          "publisher": "Wikimedia Foundation",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/mexico-city-mx/assets/mex-002.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "temple",
+        "aztec",
+        "archaeology"
+      ]
+    },
+    {
+      "id": "mex-003",
+      "title": "Basilica of Our Lady of Guadalupe",
+      "address": "Plaza de las Américas 1, Villa de Guadalupe, 07050 Ciudad de México, CDMX, Mexico",
+      "categories": [
+        "Basilica",
+        "Religious"
+      ],
+      "era": "20th century",
+      "active": true,
+      "summary": "Major Catholic pilgrimage site housing the cloak said to bear an image of the Virgin Mary.",
+      "description_md": "# Basilica of Our Lady of Guadalupe\n\nThe modern basilica, completed in 1976, stands near the Old Basilica and contains the tilma of Saint Juan Diego. Millions visit annually, especially around the feast day on December 12.",
+      "citations": [
+        {
+          "label": "Wikipedia – Basilica of Our Lady of Guadalupe",
+          "url": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Guadalupe",
+          "publisher": "Wikimedia Foundation",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/mexico-city-mx/assets/mex-003.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "basilica",
+        "pilgrimage",
+        "religious"
+      ]
+    },
+    {
+      "id": "mex-004",
+      "title": "Frida Kahlo Museum (Casa Azul)",
+      "address": "Londres 247, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX, Mexico",
+      "categories": [
+        "Museum",
+        "Art"
+      ],
+      "era": "20th century",
+      "active": true,
+      "summary": "Artist Frida Kahlo’s blue house turned museum displaying her art, belongings and studio.",
+      "description_md": "# Frida Kahlo Museum\n\nLocated in the Coyoacán district, the Casa Azul offers a glimpse into the life of Frida Kahlo and her husband Diego Rivera. The museum preserves her personal artefacts, artworks and lush courtyard.",
+      "citations": [
+        {
+          "label": "Museo Frida Kahlo – History",
+          "url": "https://www.museofridakahlo.org.mx/en/the-blue-house/",
+          "publisher": "Museo Frida Kahlo",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/mexico-city-mx/assets/mex-004.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "museum",
+        "art",
+        "frida-kahlo"
+      ]
+    },
+    {
+      "id": "mex-005",
+      "title": "Xochimilco Canals",
+      "address": "Xochimilco, 16070 Ciudad de México, CDMX, Mexico",
+      "categories": [
+        "Canals",
+        "Heritage"
+      ],
+      "era": "Pre‑Hispanic",
+      "active": true,
+      "summary": "Network of Aztec canals and floating gardens navigated by colourful trajinera boats.",
+      "description_md": "# Xochimilco Canals\n\nA UNESCO World Heritage site, Xochimilco retains remnants of the lake system that once covered the Valley of Mexico. Visitors ride painted boats through canals lined with chinampas (floating fields).",
+      "citations": [
+        {
+          "label": "Wikipedia – Xochimilco",
+          "url": "https://en.wikipedia.org/wiki/Xochimilco",
+          "publisher": "Wikimedia Foundation",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/mexico-city-mx/assets/mex-005.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "canals",
+        "trajineras",
+        "world-heritage"
+      ]
+    },
+    {
+      "id": "mex-006",
+      "title": "Coyoacán Historic Centre",
+      "address": "Coyoacán, 04000 Ciudad de México, CDMX, Mexico",
+      "categories": [
+        "Neighbourhood",
+        "Historic"
+      ],
+      "era": "16th century",
+      "active": true,
+      "summary": "Cobblestone district south of the centre known for colonial plazas, cafés and a bohemian vibe.",
+      "description_md": "# Coyoacán Historic Centre\n\nThis area encompasses 29 blocks of cobbled streets around plazas like Jardín Centenario. Once a separate village, Coyoacán retains a relaxed atmosphere with markets, churches and the house where Hernán Cortés lived.",
+      "citations": [
+        {
+          "label": "Wikipedia – Coyoacán",
+          "url": "https://en.wikipedia.org/wiki/Coyoac%C3%A1n",
+          "publisher": "Wikimedia Foundation",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/mexico-city-mx/assets/mex-006.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "neighbourhood",
+        "colonial",
+        "plazas"
+      ]
+    },
+    {
+      "id": "mex-007",
+      "title": "Palacio de Bellas Artes",
+      "address": "Av. Juárez, Centro Histórico de la Ciudad de México, 06050 Ciudad de México, CDMX, Mexico",
+      "categories": [
+        "Palace",
+        "Performing arts"
+      ],
+      "era": "1934",
+      "active": true,
+      "summary": "Ornate art nouveau and art deco palace hosting operas, concerts and murals by famous Mexican artists.",
+      "description_md": "# Palacio de Bellas Artes\n\nConstruction of this cultural centre began in 1904 and concluded in 1934. Its interior features murals by Diego Rivera and David Alfaro Siqueiros, while the theatre’s stained‑glass curtain depicts the Valley of Mexico.",
+      "citations": [
+        {
+          "label": "Wikipedia – Palacio de Bellas Artes",
+          "url": "https://en.wikipedia.org/wiki/Palacio_de_Bellas_Artes",
+          "publisher": "Wikimedia Foundation",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/mexico-city-mx/assets/mex-007.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "palace",
+        "art",
+        "opera"
+      ]
+    },
+    {
+      "id": "mex-008",
+      "title": "Torre Latinoamericana",
+      "address": "Eje Central Lázaro Cárdenas 2, Centro, 06000 Ciudad de México, CDMX, Mexico",
+      "categories": [
+        "Skyscraper",
+        "Observation"
+      ],
+      "era": "1956",
+      "active": true,
+      "summary": "166‑metre skyscraper famed for surviving earthquakes and offering panoramic observation decks.",
+      "description_md": "# Torre Latinoamericana\n\nOpened in 1956, this tower stood as Mexico’s tallest building for decades. It withstood the 1957 and 1985 earthquakes thanks to advanced engineering and has an observation deck and museum on the 44th floor.",
+      "citations": [
+        {
+          "label": "Wikipedia – Torre Latinoamericana",
+          "url": "https://en.wikipedia.org/wiki/Torre_Latinoamericana",
+          "publisher": "Wikimedia Foundation",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/mexico-city-mx/assets/mex-008.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "tower",
+        "skyscraper",
+        "earthquake"
+      ]
+    },
+    {
+      "id": "mex-009",
+      "title": "Chapultepec Castle",
+      "address": "Bosque de Chapultepec I Sección, 11100 Ciudad de México, CDMX, Mexico",
+      "categories": [
+        "Castle",
+        "Museum"
+      ],
+      "era": "18th century",
+      "active": true,
+      "summary": "Castle atop Chapultepec Hill that served as a military academy, imperial residence and presidential palace.",
+      "description_md": "# Chapultepec Castle\n\nPerched on a hill 2,325 metres above sea level, this 18th‑century castle was built for viceroys and later became the home of Emperor Maximilian I. It now houses the National Museum of History.",
+      "citations": [
+        {
+          "label": "Wikipedia – Chapultepec Castle",
+          "url": "https://en.wikipedia.org/wiki/Chapultepec_Castle",
+          "publisher": "Wikimedia Foundation",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/mexico-city-mx/assets/mex-009.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "castle",
+        "museum",
+        "hill"
+      ]
+    },
+    {
+      "id": "mex-010",
+      "title": "National Palace (Mexico City)",
+      "address": "Plaza de la Constitución S/N, Centro, 06000 Ciudad de México, CDMX, Mexico",
+      "categories": [
+        "Government",
+        "Palace"
+      ],
+      "era": "16th century",
+      "active": true,
+      "summary": "Seat of the federal executive branch adorned with Diego Rivera murals depicting Mexico’s history.",
+      "description_md": "# National Palace\n\nBuilt on the site of Moctezuma II’s palace, the National Palace houses government offices and ceremonial rooms. Its arcaded courtyards display murals illustrating Mexico’s past.",
+      "citations": [
+        {
+          "label": "SECTUR – National Palace",
+          "url": "https://www.gob.mx/sectur/articulos/palacio-nacional",
+          "publisher": "Secretariat of Tourism (Mexico)",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/mexico-city-mx/assets/mex-010.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "palace",
+        "government",
+        "murals"
+      ]
+    }
+  ]
+}

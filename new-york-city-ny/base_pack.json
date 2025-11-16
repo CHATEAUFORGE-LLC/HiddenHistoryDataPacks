@@ -1,0 +1,341 @@
+{
+  "pack_id": "new-york-city-ny-base",
+  "pack_version": "2025.11.15",
+  "active": true,
+  "contact": {
+    "organization": "New York City Tourism",
+    "email": "info@nycgo.com"
+  },
+  "brand": {
+    "logo": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/new-york-city-ny/assets/new_york_city_logo.png"
+  },
+  "sites": [
+    {
+      "id": "nyc-001",
+      "title": "Statue of Liberty",
+      "address": "Liberty Island, New York, NY 10004",
+      "categories": [
+        "Monument",
+        "Landmark"
+      ],
+      "era": "1886",
+      "active": true,
+      "summary": "Iconic symbol of freedom gifted by France, featuring a torch and tablet.",
+      "description_md": "# Statue of Liberty\n\nDedicated on October 28, 1886, this colossal statue of Libertas was a gift from France. It depicts a robed female figure holding a torch and tablet, symbolising freedom and democracy. Visitors can tour the island and ascend to the crown for panoramic views.",
+      "citations": [
+        {
+          "label": "NYC Tourism – Statue of Liberty history",
+          "url": "https://www.nycgo.com/attractions/liberty-island-and-ellis-island/",
+          "publisher": "NYC & Company",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/new-york-city-ny/assets/nyc-001.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "liberty",
+        "monument",
+        "american-history"
+      ]
+    },
+    {
+      "id": "nyc-002",
+      "title": "Central Park",
+      "address": "Central Park, New York, NY",
+      "categories": [
+        "Park"
+      ],
+      "era": "1857",
+      "active": true,
+      "summary": "Vast urban park between the Upper West and Upper East sides, offering recreation and nature.",
+      "description_md": "# Central Park\n\nThis 843‑acre park, proposed in the 1840s and opened in 1857, is the most visited urban park in the United States. It features rolling meadows, woodland paths, lakes, and landmarks like Bethesda Terrace and the Ramble.",
+      "citations": [
+        {
+          "label": "Wikipedia – Central Park facts",
+          "url": "https://en.wikipedia.org/wiki/Central_Park",
+          "publisher": "Wikimedia Foundation",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/new-york-city-ny/assets/nyc-002.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "park",
+        "urban",
+        "recreation"
+      ]
+    },
+    {
+      "id": "nyc-003",
+      "title": "Empire State Building",
+      "address": "20 W 34th St, New York, NY 10001",
+      "categories": [
+        "Skyscraper"
+      ],
+      "era": "1931",
+      "active": true,
+      "summary": "Art Deco skyscraper offering observatories with sweeping views of Manhattan.",
+      "description_md": "# Empire State Building\n\nCompleted in 1931, the 102‑story Empire State Building was the world's tallest building for nearly 40 years. Its observation decks on the 86th and 102nd floors provide iconic views of New York City.",
+      "citations": [
+        {
+          "label": "Empire State Building history",
+          "url": "https://www.esbnyc.com/history",
+          "publisher": "Empire State Realty Trust",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/new-york-city-ny/assets/nyc-003.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "skyscraper",
+        "art-deco",
+        "views"
+      ]
+    },
+    {
+      "id": "nyc-004",
+      "title": "Metropolitan Museum of Art",
+      "address": "1000 5th Ave, New York, NY 10028",
+      "categories": [
+        "Museum",
+        "Art"
+      ],
+      "era": "1870",
+      "active": true,
+      "summary": "One of the world's largest art museums, housing over two million works.",
+      "description_md": "# Metropolitan Museum of Art\n\nFounded in 1870, the Met spans 17 curatorial departments and displays art from antiquity to the present. Highlights include Egyptian temples, European paintings and American decorative arts.",
+      "citations": [
+        {
+          "label": "Metropolitan Museum – About",
+          "url": "https://www.metmuseum.org/about-the-met",
+          "publisher": "The Metropolitan Museum of Art",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/new-york-city-ny/assets/nyc-004.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "museum",
+        "art",
+        "culture"
+      ]
+    },
+    {
+      "id": "nyc-005",
+      "title": "Brooklyn Bridge",
+      "address": "Brooklyn Bridge, New York, NY",
+      "categories": [
+        "Bridge"
+      ],
+      "era": "1883",
+      "active": true,
+      "summary": "Suspension bridge connecting Manhattan and Brooklyn, known for its Gothic towers.",
+      "description_md": "# Brooklyn Bridge\n\nOpened in 1883, the Brooklyn Bridge was the first steel‑wire suspension bridge. It spans the East River, linking Manhattan and Brooklyn, and offers pedestrian and cycling paths with scenic views of the skyline.",
+      "citations": [
+        {
+          "label": "NYC Parks – Brooklyn Bridge",
+          "url": "https://www.nycgovparks.org/parks/brooklyn-bridge-park/history",
+          "publisher": "NYC Parks",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/new-york-city-ny/assets/nyc-005.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "bridge",
+        "engineering",
+        "icon"
+      ]
+    },
+    {
+      "id": "nyc-006",
+      "title": "High Line",
+      "address": "High Line, New York, NY",
+      "categories": [
+        "Park",
+        "Linear park"
+      ],
+      "era": "2009",
+      "active": true,
+      "summary": "Elevated linear park built on a historic freight rail line on Manhattan’s West Side.",
+      "description_md": "# High Line\n\nThe High Line repurposes an elevated freight rail line into a 1.45‑mile park featuring gardens, art installations, and views of the Hudson River. Opened in 2009, it revitalized the Chelsea neighbourhood.",
+      "citations": [
+        {
+          "label": "Friends of the High Line – History",
+          "url": "https://www.thehighline.org/history/",
+          "publisher": "Friends of the High Line",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/new-york-city-ny/assets/nyc-006.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "park",
+        "architecture",
+        "urban-reuse"
+      ]
+    },
+    {
+      "id": "nyc-007",
+      "title": "9/11 Memorial & Museum",
+      "address": "180 Greenwich St, New York, NY 10007",
+      "categories": [
+        "Memorial",
+        "Museum"
+      ],
+      "era": "2011",
+      "active": true,
+      "summary": "Memorial and museum commemorating the victims of the September 11, 2001 attacks.",
+      "description_md": "# 9/11 Memorial & Museum\n\nLocated at the World Trade Center, the memorial features twin reflecting pools set within the footprints of the Twin Towers. The adjacent museum documents the events of 9/11 and honours those who lost their lives.",
+      "citations": [
+        {
+          "label": "9/11 Memorial & Museum – Mission",
+          "url": "https://www.911memorial.org/visit-museum",
+          "publisher": "National September 11 Memorial & Museum",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/new-york-city-ny/assets/nyc-007.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "memorial",
+        "museum",
+        "history"
+      ]
+    },
+    {
+      "id": "nyc-008",
+      "title": "Broadway Theatre District",
+      "address": "Broadway, New York, NY",
+      "categories": [
+        "Theatre",
+        "Entertainment"
+      ],
+      "era": "Early 20th century",
+      "active": true,
+      "summary": "Cluster of historic theatres along Broadway known for world‑class productions.",
+      "description_md": "# Broadway Theatre District\n\nBroadway encompasses the 41 professional theatres with 500 or more seats located in Manhattan's Theatre District. It is synonymous with live theatre and has launched countless acclaimed productions.",
+      "citations": [
+        {
+          "label": "Broadway League – About",
+          "url": "https://www.broadway.org/info/broadway-theatres",
+          "publisher": "The Broadway League",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/new-york-city-ny/assets/nyc-008.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "theatre",
+        "performing-arts",
+        "culture"
+      ]
+    },
+    {
+      "id": "nyc-009",
+      "title": "American Museum of Natural History",
+      "address": "200 Central Park West, New York, NY 10024",
+      "categories": [
+        "Museum",
+        "Science"
+      ],
+      "era": "1869",
+      "active": true,
+      "summary": "One of the world’s preeminent scientific institutions exploring earth, space and life sciences.",
+      "description_md": "# American Museum of Natural History\n\nFounded in 1869, the museum houses over 34 million specimens. Exhibits range from fossils and gems to cosmic displays in the Hayden Planetarium.",
+      "citations": [
+        {
+          "label": "American Museum of Natural History – About",
+          "url": "https://www.amnh.org/about",
+          "publisher": "American Museum of Natural History",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/new-york-city-ny/assets/nyc-009.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "museum",
+        "science",
+        "education"
+      ]
+    },
+    {
+      "id": "nyc-010",
+      "title": "Times Square",
+      "address": "Times Square, New York, NY",
+      "categories": [
+        "Square",
+        "Entertainment"
+      ],
+      "era": "1904",
+      "active": true,
+      "summary": "Bustling commercial intersection famed for neon signs and New Year's Eve celebrations.",
+      "description_md": "# Times Square\n\nKnown as ‘The Crossroads of the World,’ Times Square is where Broadway and Seventh Avenue intersect. It is lined with theatres, shops, and electronic billboards and hosts New York’s New Year’s Eve ball drop.",
+      "citations": [
+        {
+          "label": "Times Square Alliance – History",
+          "url": "https://www.timessquarenyc.org/history-of-times-square",
+          "publisher": "Times Square Alliance",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/new-york-city-ny/assets/nyc-010.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "square",
+        "entertainment",
+        "lights"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "pack_id": "cairo-eg-base",
+  "pack_version": "2025.11.15",
+  "active": true,
+  "contact": {
+    "organization": "Egyptian Tourism Authority",
+    "email": "info@egypt.travel"
+  },
+  "brand": {
+    "logo": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/cairo-eg/assets/cairo_logo.png"
+  },
+  "sites": [
+    {
+      "id": "cai-001",
+      "title": "Giza Pyramids Complex",
+      "address": "Al Haram, Giza Governorate, Egypt",
+      "categories": [
+        "Pyramid",
+        "Ancient"
+      ],
+      "era": "c. 26th century BC",
+      "active": true,
+      "summary": "Ancient mortuary complex featuring the Great Pyramid of Khufu and the Sphinx.",
+      "description_md": "# Giza Pyramids Complex\n\nThe trio of pyramids built for pharaohs Khufu, Khafre and Menkaure are the only remaining wonders of the ancient world. The complex also includes the Great Sphinx and tombs for queens and nobles.",
+      "citations": [
+        {
+          "label": "Egypt Tours Portal – Giza Pyramids Complex",
+          "url": "https://www.egypttoursportal.com/giza-pyramids-complex/",
+          "publisher": "Egypt Tours Portal",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/cairo-eg/assets/cai-001.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "pyramids",
+        "ancient",
+        "pharaohs"
+      ]
+    },
+    {
+      "id": "cai-002",
+      "title": "Egyptian Museum",
+      "address": "Tahrir Square, Cairo, Egypt",
+      "categories": [
+        "Museum",
+        "History"
+      ],
+      "era": "1902",
+      "active": true,
+      "summary": "Museum housing 120,000 artefacts spanning Pharaonic history including Tutankhamun’s treasures.",
+      "description_md": "# Egyptian Museum\n\nOpened in 1902 on Tahrir Square, this museum safeguards mummies, jewellery, statues and papyri from ancient Egypt. Highlights include the golden mask of Tutankhamun and artefacts from the New Kingdom.",
+      "citations": [
+        {
+          "label": "Egypt Tours Portal – Egyptian Museum",
+          "url": "https://www.egypttoursportal.com/egyptian-museum/",
+          "publisher": "Egypt Tours Portal",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/cairo-eg/assets/cai-002.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "museum",
+        "artefacts",
+        "ancient"
+      ]
+    },
+    {
+      "id": "cai-003",
+      "title": "Khan El Khalili Bazaar",
+      "address": "Al-Azhar St, El-Gamaleya, Cairo Governorate, Egypt",
+      "categories": [
+        "Market",
+        "Shopping"
+      ],
+      "era": "14th century",
+      "active": true,
+      "summary": "Bustling souk filled with spices, jewellery and handicrafts set within medieval lanes.",
+      "description_md": "# Khan El Khalili Bazaar\n\nEstablished in the 14th century, this labyrinthine market offers perfumes, textiles, gold and souvenir shops. The historic quarter is also home to traditional coffeehouses like El Fishawi.",
+      "citations": [
+        {
+          "label": "Egypt Tours Portal – Khan El Khalili Bazaar",
+          "url": "https://www.egypttoursportal.com/khan-el-khalili/",
+          "publisher": "Egypt Tours Portal",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/cairo-eg/assets/cai-003.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "bazaar",
+        "market",
+        "shopping"
+      ]
+    },
+    {
+      "id": "cai-004",
+      "title": "Memphis and Saqqara",
+      "address": "Saqqara, Giza Governorate, Egypt",
+      "categories": [
+        "Archaeological site",
+        "Ancient"
+      ],
+      "era": "3rd millennium BC",
+      "active": true,
+      "summary": "Ruins of Egypt’s first capital and the Step Pyramid of Djoser – the earliest large stone structure.",
+      "description_md": "# Memphis and Saqqara\n\nFounded around 2925 BC, Memphis was the political and religious capital of early Egypt. Nearby Saqqara houses the Step Pyramid of Djoser, a precursor to the pyramids at Giza designed by Imhotep.",
+      "citations": [
+        {
+          "label": "Egypt Tours Portal – Memphis City & Saqqara Step Pyramid",
+          "url": "https://www.egypttoursportal.com/memphis-egypt/",
+          "publisher": "Egypt Tours Portal",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/cairo-eg/assets/cai-004.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "memphis",
+        "saqqara",
+        "pyramid"
+      ]
+    },
+    {
+      "id": "cai-005",
+      "title": "Muhammad Ali Mosque (Alabaster Mosque)",
+      "address": "Cairo Citadel, Cairo Governorate, Egypt",
+      "categories": [
+        "Mosque",
+        "Religious"
+      ],
+      "era": "19th century",
+      "active": true,
+      "summary": "Ottoman-style mosque with slender minarets and alabaster interior dominating Cairo’s skyline.",
+      "description_md": "# Muhammad Ali Mosque\n\nBuilt between 1830 and 1848 within the Citadel of Salah al‑Din, this mosque features a central dome flanked by semi-domes and twin minarets. Limestone and alabaster cladding give it a distinctive gleaming appearance.",
+      "citations": [
+        {
+          "label": "Egypt Tours Portal – Muhammad Ali Mosque",
+          "url": "https://www.egypttoursportal.com/muhammad-ali-mosque/",
+          "publisher": "Egypt Tours Portal",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/cairo-eg/assets/cai-005.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "mosque",
+        "architecture",
+        "ottman"
+      ]
+    },
+    {
+      "id": "cai-006",
+      "title": "Salah El Din Citadel",
+      "address": "Al Abageyah, Cairo Governorate, Egypt",
+      "categories": [
+        "Citadel",
+        "Fortress"
+      ],
+      "era": "12th century",
+      "active": true,
+      "summary": "Medieval fortress built by Saladin offering panoramic views and historic mosques and museums.",
+      "description_md": "# Salah El Din Citadel\n\nConstructed between 1176 and 1183 to protect against Crusaders, the citadel later housed Egypt’s rulers. Key attractions include the Mosque of Muhammad Ali, military museums and ancient gates.",
+      "citations": [
+        {
+          "label": "Egypt Tours Portal – Salah El Din Citadel",
+          "url": "https://www.egypttoursportal.com/salah-el-din-citadel/",
+          "publisher": "Egypt Tours Portal",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/cairo-eg/assets/cai-006.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "citadel",
+        "fortress",
+        "history"
+      ]
+    },
+    {
+      "id": "cai-007",
+      "title": "Hanging Church",
+      "address": "Coptic Cairo, Cairo Governorate, Egypt",
+      "categories": [
+        "Church",
+        "Religious"
+      ],
+      "era": "5th century",
+      "active": true,
+      "summary": "Coptic Christian church built above a Roman fortress, adorned with icons and wooden decorations.",
+      "description_md": "# Hanging Church\n\nAlso known as Saint Virgin Mary’s Coptic Orthodox Church, the Hanging Church dates to the 5th century. It is suspended over the Water Gate of Babylon Fortress and contains over 100 icons.",
+      "citations": [
+        {
+          "label": "Egypt Tours Portal – Hanging Church",
+          "url": "https://www.egypttoursportal.com/hanging-church/",
+          "publisher": "Egypt Tours Portal",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/cairo-eg/assets/cai-007.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "church",
+        "coptic",
+        "fortress"
+      ]
+    },
+    {
+      "id": "cai-008",
+      "title": "Al‑Azhar Mosque",
+      "address": "Islamic Cairo, Cairo Governorate, Egypt",
+      "categories": [
+        "Mosque",
+        "University"
+      ],
+      "era": "10th century",
+      "active": true,
+      "summary": "Historic mosque and university complex regarded as a global centre of Islamic learning.",
+      "description_md": "# Al‑Azhar Mosque\n\nFounded in 970 AD by the Fatimids, Al‑Azhar grew into one of the world’s oldest universities. Its complex architecture reflects Fatimid, Mamluk and Ottoman influences, and it remains an active place of worship and study.",
+      "citations": [
+        {
+          "label": "Egypt Tours Portal – Al-Azhar Mosque",
+          "url": "https://www.egypttoursportal.com/al-azhar-mosque/",
+          "publisher": "Egypt Tours Portal",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/cairo-eg/assets/cai-008.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "mosque",
+        "university",
+        "learning"
+      ]
+    },
+    {
+      "id": "cai-009",
+      "title": "Cairo Tower",
+      "address": "Gezira Island, Cairo Governorate, Egypt",
+      "categories": [
+        "Tower",
+        "Observation"
+      ],
+      "era": "1961",
+      "active": true,
+      "summary": "187‑metre communications tower with lotus‑inspired design offering panoramic views over Cairo.",
+      "description_md": "# Cairo Tower\n\nCompleted in 1961 on Gezira Island, the concrete Cairo Tower resembles a lotus plant and stands 187 metres tall. Visitors ride elevators to an observation deck and revolving restaurant with views of the Nile and cityscape.",
+      "citations": [
+        {
+          "label": "TripSavvy – Cairo Tower",
+          "url": "https://www.tripsavvy.com/cairo-tower-guide-4155693",
+          "publisher": "TripSavvy",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/cairo-eg/assets/cai-009.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "tower",
+        "views",
+        "modern"
+      ]
+    },
+    {
+      "id": "cai-010",
+      "title": "Citadel of Qaitbay (Alexandria)",
+      "address": "Alexandria, Egypt",
+      "categories": [
+        "Fortress",
+        "Coastal"
+      ],
+      "era": "15th century",
+      "active": true,
+      "summary": "Sea‑front fortress in Alexandria built on the foundations of the ancient Lighthouse of Alexandria.",
+      "description_md": "# Citadel of Qaitbay\n\nConstructed in 1477 by Sultan Qaitbay, this fortress was built on Pharos Island using stones from the ruined ancient lighthouse. It protected the Mediterranean port and now houses a naval museum.",
+      "citations": [
+        {
+          "label": "Egypt Tours Portal – Citadel of Qaitbay",
+          "url": "https://www.egypttoursportal.com/citadel-of-qaitbay/",
+          "publisher": "Egypt Tours Portal",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/cairo-eg/assets/cai-010.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "fortress",
+        "alexandria",
+        "lighthouse"
+      ]
+    }
+  ]
+}

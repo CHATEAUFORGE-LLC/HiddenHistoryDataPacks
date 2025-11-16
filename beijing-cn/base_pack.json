@@ -1,0 +1,344 @@
+{
+  "pack_id": "beijing-cn-base",
+  "pack_version": "2025.11.15",
+  "active": true,
+  "contact": {
+    "organization": "Beijing Municipal Administration of Culture and Tourism",
+    "email": "info@visitbeijing.com.cn"
+  },
+  "brand": {
+    "logo": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/beijing-cn/assets/beijing_logo.png"
+  },
+  "sites": [
+    {
+      "id": "bei-001",
+      "title": "Great Wall – Mutianyu Section",
+      "address": "Huairou District, Beijing, China",
+      "categories": [
+        "Wall",
+        "Ancient"
+      ],
+      "era": "7th century BC and later",
+      "active": true,
+      "summary": "Well-preserved section of the Great Wall offering stunning mountain vistas and watchtowers.",
+      "description_md": "# Great Wall – Mutianyu\n\nThe Mutianyu stretch of the Great Wall dates from the Ming dynasty and features crenellated battlements and 23 watchtowers. Cable cars and a toboggan ride provide access to this scenic section.",
+      "citations": [
+        {
+          "label": "China Highlights – Great Wall (Mutianyu)",
+          "url": "https://www.chinahighlights.com/beijing/attraction/great-wall.htm",
+          "publisher": "China Highlights",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/beijing-cn/assets/bei-001.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "great-wall",
+        "mutianyu",
+        "mountains"
+      ]
+    },
+    {
+      "id": "bei-002",
+      "title": "Forbidden City",
+      "address": "4 Jingshan Front St, Dongcheng, Beijing, China",
+      "categories": [
+        "Palace",
+        "Museum"
+      ],
+      "era": "15th century",
+      "active": true,
+      "summary": "Imperial palace complex with nearly 1,000 buildings that housed Ming and Qing emperors.",
+      "description_md": "# Forbidden City\n\nAlso called the Palace Museum, this UNESCO World Heritage site served as the seat of Chinese power for over five centuries. Its halls and courtyards display imperial art and architecture.",
+      "citations": [
+        {
+          "label": "China Highlights – Forbidden City",
+          "url": "https://www.chinahighlights.com/beijing/attraction/forbidden-city.htm",
+          "publisher": "China Highlights",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/beijing-cn/assets/bei-002.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "palace",
+        "imperial",
+        "museum"
+      ]
+    },
+    {
+      "id": "bei-003",
+      "title": "Temple of Heaven",
+      "address": "1 Tiantan E Rd, Dongcheng, Beijing, China",
+      "categories": [
+        "Temple",
+        "Religious"
+      ],
+      "era": "15th century",
+      "active": true,
+      "summary": "Vast park and complex where emperors prayed for good harvests, featuring the Hall of Prayer for Good Harvests.",
+      "description_md": "# Temple of Heaven\n\nThis Ming-era complex comprises the triple‑gabled Hall of Prayer for Good Harvests, Circular Mound Altar and Echo Wall. Locals practise tai chi and play music in the surrounding park.",
+      "citations": [
+        {
+          "label": "China Highlights – Temple of Heaven",
+          "url": "https://www.chinahighlights.com/beijing/attraction/temple-of-heaven.htm",
+          "publisher": "China Highlights",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/beijing-cn/assets/bei-003.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "temple",
+        "park",
+        "imperial"
+      ]
+    },
+    {
+      "id": "bei-004",
+      "title": "Summer Palace",
+      "address": "19 Xinjiangongmen Rd, Haidian, Beijing, China",
+      "categories": [
+        "Palace",
+        "Garden"
+      ],
+      "era": "18th century",
+      "active": true,
+      "summary": "Expansive lakeside retreat with pavilions, bridges and the Long Corridor.",
+      "description_md": "# Summer Palace\n\nBuilt as an imperial garden in 1750, the Summer Palace features Longevity Hill, Kunming Lake and ornate covered walkways. A boat ride on the lake offers tranquil vistas.",
+      "citations": [
+        {
+          "label": "China Highlights – Summer Palace",
+          "url": "https://www.chinahighlights.com/beijing/attraction/summer-palace.htm",
+          "publisher": "China Highlights",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/beijing-cn/assets/bei-004.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "garden",
+        "palace",
+        "lake"
+      ]
+    },
+    {
+      "id": "bei-005",
+      "title": "Tiananmen Square",
+      "address": "Tiananmen Square, Beijing, China",
+      "categories": [
+        "Square",
+        "Historical"
+      ],
+      "era": "20th century",
+      "active": true,
+      "summary": "One of the world’s largest public squares surrounded by monuments of modern China.",
+      "description_md": "# Tiananmen Square\n\nCovering 44 hectares, Tiananmen Square is flanked by the Forbidden City, Great Hall of the People, National Museum of China and Mausoleum of Mao Zedong. Flag‑raising ceremonies occur at sunrise.",
+      "citations": [
+        {
+          "label": "China Highlights – Tiananmen Square",
+          "url": "https://www.chinahighlights.com/beijing/attraction/tiananmen-square.htm",
+          "publisher": "China Highlights",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/beijing-cn/assets/bei-005.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "square",
+        "monument",
+        "politics"
+      ]
+    },
+    {
+      "id": "bei-006",
+      "title": "Beijing Hutongs",
+      "address": "Various hutong alleys in Beijing, China",
+      "categories": [
+        "Neighbourhood",
+        "Cultural"
+      ],
+      "era": "Yuan dynasty",
+      "active": true,
+      "summary": "Maze of narrow lanes lined with traditional courtyard residences offering glimpses into local life.",
+      "description_md": "# Beijing Hutongs\n\nBeijing’s ancient hutongs showcase traditional siheyuan courtyard houses. Areas like Nanluoguxiang and Yandaixiejie brim with boutiques, cafés and street food.",
+      "citations": [
+        {
+          "label": "China Highlights – Hutongs",
+          "url": "https://www.chinahighlights.com/beijing/attraction/hutongs.htm",
+          "publisher": "China Highlights",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/beijing-cn/assets/bei-006.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "hutong",
+        "alleys",
+        "culture"
+      ]
+    },
+    {
+      "id": "bei-007",
+      "title": "Lama Temple (Yonghe Temple)",
+      "address": "12 Yonghegong St, Dongcheng, Beijing, China",
+      "categories": [
+        "Temple",
+        "Religious"
+      ],
+      "era": "18th century",
+      "active": true,
+      "summary": "Tibetan Buddhist monastery known for its incense‑scented halls and giant Maitreya statue.",
+      "description_md": "# Lama Temple\n\nOriginally a palace for Emperor Yongzheng, this temple became a lamasery in 1744. Its main hall houses a 26‑metre sandalwood statue of Maitreya Buddha carved from a single tree.",
+      "citations": [
+        {
+          "label": "China Highlights – Lama Temple",
+          "url": "https://www.chinahighlights.com/beijing/attraction/lama-temple.htm",
+          "publisher": "China Highlights",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/beijing-cn/assets/bei-007.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "temple",
+        "buddhist",
+        "lama"
+      ]
+    },
+    {
+      "id": "bei-008",
+      "title": "798 Art District",
+      "address": "2 Jiuxianqiao Rd, Chaoyang, Beijing, China",
+      "categories": [
+        "Art",
+        "District"
+      ],
+      "era": "21st century",
+      "active": true,
+      "summary": "Former factory complex transformed into galleries, studios and street art displays.",
+      "description_md": "# 798 Art District\n\nOnce a Soviet‑built electronics factory, 798 has blossomed into a hub of contemporary Chinese art. Visitors explore galleries, cafés and outdoor installations.",
+      "citations": [
+        {
+          "label": "China Highlights – 798 Art District",
+          "url": "https://www.chinahighlights.com/beijing/attraction/798-art-district.htm",
+          "publisher": "China Highlights",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/beijing-cn/assets/bei-008.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "art",
+        "district",
+        "contemporary"
+      ]
+    },
+    {
+      "id": "bei-009",
+      "title": "Ming Tombs",
+      "address": "Changping District, Beijing, China",
+      "categories": [
+        "Mausoleum",
+        "Historical"
+      ],
+      "era": "15th century",
+      "active": true,
+      "summary": "Valley containing the mausoleums of 13 Ming emperors along a sacred way lined with statues.",
+      "description_md": "# Ming Tombs\n\nThe Ming Dynasty’s emperors were buried in grand tombs north of Beijing. Visitors walk the Spirit Way lined with animal and human statues and explore chambers at Dingling and Changling.",
+      "citations": [
+        {
+          "label": "China Highlights – Ming Tombs",
+          "url": "https://www.chinahighlights.com/beijing/attraction/ming-tombs.htm",
+          "publisher": "China Highlights",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/beijing-cn/assets/bei-009.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "tombs",
+        "mausoleum",
+        "imperial"
+      ]
+    },
+    {
+      "id": "bei-010",
+      "title": "Jingshan Park",
+      "address": "44 Jingshan W St, Xicheng, Beijing, China",
+      "categories": [
+        "Park",
+        "Hill"
+      ],
+      "era": "18th century",
+      "active": true,
+      "summary": "Man‑made hill offering panoramic views of the Forbidden City and Beijing skyline.",
+      "description_md": "# Jingshan Park\n\nCreated from soil excavated for the Forbidden City’s moat, Jingshan Hill rises 45 metres. Climb to the Wanchun Pavilion for sweeping views of the imperial palace rooftops.",
+      "citations": [
+        {
+          "label": "China Highlights – Jingshan Park",
+          "url": "https://www.chinahighlights.com/beijing/attraction/jingshan-park.htm",
+          "publisher": "China Highlights",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://chateauforge-llc.github.io/HiddenHistoryDataPacks/beijing-cn/assets/bei-010.png",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "tags": [
+        "park",
+        "hill",
+        "view"
+      ]
+    }
+  ]
+}
